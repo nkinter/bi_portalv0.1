@@ -1,6 +1,5 @@
 import React from 'react';
 /* This somehow makes icons work with Materialize-css */
-import { colorPallet } from 'material-icons-react';
 
 const Landing = () => {
     return (
